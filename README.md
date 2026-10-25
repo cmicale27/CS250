@@ -1,3 +1,3 @@
 # CS250
-Sprint Review and Retrospective
+Sprint Review and Retrospective: 
 Interpreting user needs begins by translating stakeholder requirements into actionable user stories. By focusing directly on the end user's perspective, programs are built to solve real-world problems effectively. When approaching software development, I rely on iterative planning and intend to incorporate Agile practices like sprint planning, backlog refinement, and continuous retrospectives to manage complexity and adapt seamlessly during shifts in scope. To be a valuable team member, it is critical to have transparent communication, cross-functional collaboration, and shared accountability for delivering high-quality, maintainable software increments. 
